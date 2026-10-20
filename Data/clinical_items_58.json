@@ -1,0 +1,1169 @@
+[
+  {
+    "itemNo": 0,
+    "dim": 0,
+    "subTaskNo": 0,
+    "section": "بند تجريبي (فهم التعليمة)",
+    "mode": "word_to_images",
+    "instruction": "اِخْتَرِ الصُّورَةَ المُوَافِقَةَ لِلْكَلِمَةِ المَكْتُوبَةِ",
+    "stimulusText": "كَـلْـبٌ",
+    "stimulusImage": null,
+    "options": [
+      4,
+      5,
+      6
+    ],
+    "correctOption": 5,
+    "targetAnswer": "كلب (تجريبي)",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 1,
+    "dim": 1,
+    "subTaskNo": 1,
+    "section": "الفهم والتعرف على الكلمة\nالصورة الموافقة للكلمة",
+    "mode": "word_to_images",
+    "instruction": "1- اِخْتَرِ الصُّورَةَ المُوَافِقَةَ لِلْكَلِمَةِ المَكْتُوبَةِ",
+    "stimulusText": "نَخْلَةٌ",
+    "stimulusImage": null,
+    "options": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "correctOption": 9,
+    "targetAnswer": "نخلة",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 2,
+    "dim": 1,
+    "subTaskNo": 2,
+    "section": "الفهم والتعرف على الكلمة\nالصورة الموافقة للكلمة",
+    "mode": "word_to_images",
+    "instruction": "1- اِخْتَرِ الصُّورَةَ المُوَافِقَةَ لِلْكَلِمَةِ المَكْتُوبَةِ",
+    "stimulusText": "جَمَلٌ",
+    "stimulusImage": null,
+    "options": [
+      11,
+      12,
+      13,
+      14
+    ],
+    "correctOption": 12,
+    "targetAnswer": "جمل",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 3,
+    "dim": 1,
+    "subTaskNo": 3,
+    "section": "الفهم والتعرف على الكلمة\nالصورة الموافقة للكلمة",
+    "mode": "word_to_images",
+    "instruction": "1- اِخْتَرِ الصُّورَةَ المُوَافِقَةَ لِلْكَلِمَةِ المَكْتُوبَةِ",
+    "stimulusText": "نَحْلَةٌ",
+    "stimulusImage": null,
+    "options": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "correctOption": 8,
+    "targetAnswer": "نحلة",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 4,
+    "dim": 1,
+    "subTaskNo": 4,
+    "section": "الفهم والتعرف على الكلمة\nالصورة الموافقة للكلمة",
+    "mode": "word_to_images",
+    "instruction": "1- اِخْتَرِ الصُّورَةَ المُوَافِقَةَ لِلْكَلِمَةِ المَكْتُوبَةِ",
+    "stimulusText": "رَجُلٌ",
+    "stimulusImage": null,
+    "options": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "correctOption": 15,
+    "targetAnswer": "رجل",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 5,
+    "dim": 1,
+    "subTaskNo": 5,
+    "section": "الفهم والتعرف على الكلمة\nالصورة الموافقة للكلمة",
+    "mode": "word_to_images",
+    "instruction": "1- اِخْتَرِ الصُّورَةَ المُوَافِقَةَ لِلْكَلِمَةِ المَكْتُوبَةِ",
+    "stimulusText": "مَسْجِدٌ",
+    "stimulusImage": null,
+    "options": [
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
+    ],
+    "correctOption": 21,
+    "targetAnswer": "مسجد",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 6,
+    "dim": 1,
+    "subTaskNo": 6,
+    "section": "الفهم والتعرف على الكلمة\nالصورة الموافقة للكلمة",
+    "mode": "word_to_images",
+    "instruction": "1- اِخْتَرِ الصُّورَةَ المُوَافِقَةَ لِلْكَلِمَةِ المَكْتُوبَةِ",
+    "stimulusText": "كِمَامَةٌ",
+    "stimulusImage": null,
+    "options": [
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "correctOption": 28,
+    "targetAnswer": "كمامة",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 7,
+    "dim": 1,
+    "subTaskNo": 7,
+    "section": "الفهم والتعرف على الكلمة\nالصورة الموافقة للكلمة",
+    "mode": "word_to_images",
+    "instruction": "1- اِخْتَرِ الصُّورَةَ المُوَافِقَةَ لِلْكَلِمَةِ المَكْتُوبَةِ",
+    "stimulusText": "طَائِرَةٌ",
+    "stimulusImage": null,
+    "options": [
+      33,
+      34,
+      35,
+      36,
+      37,
+      38
+    ],
+    "correctOption": 34,
+    "targetAnswer": "طائرة",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 8,
+    "dim": 1,
+    "subTaskNo": 8,
+    "section": "الفهم والتعرف على الكلمة\nالصورة الموافقة للكلمة",
+    "mode": "word_to_images",
+    "instruction": "1- اِخْتَرِ الصُّورَةَ المُوَافِقَةَ لِلْكَلِمَةِ المَكْتُوبَةِ",
+    "stimulusText": "حَلَّاقٌ",
+    "stimulusImage": null,
+    "options": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "correctOption": 44,
+    "targetAnswer": "حلاق",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 9,
+    "dim": 1,
+    "subTaskNo": 9,
+    "section": "الفهم والتعرف على الكلمة\nالصورة الموافقة للكلمة",
+    "mode": "word_to_images",
+    "instruction": "1- اِخْتَرِ الصُّورَةَ المُوَافِقَةَ لِلْكَلِمَةِ المَكْتُوبَةِ",
+    "stimulusText": "شَاحِنٌ",
+    "stimulusImage": null,
+    "options": [
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "correctOption": 49,
+    "targetAnswer": "شاحن",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 10,
+    "dim": 1,
+    "subTaskNo": 10,
+    "section": "الفهم والتعرف على الكلمة\nالصورة الموافقة للكلمة",
+    "mode": "word_to_images",
+    "instruction": "1- اِخْتَرِ الصُّورَةَ المُوَافِقَةَ لِلْكَلِمَةِ المَكْتُوبَةِ",
+    "stimulusText": "جَالِسٌ",
+    "stimulusImage": null,
+    "options": [
+      51,
+      52,
+      53,
+      54,
+      55,
+      56
+    ],
+    "correctOption": 55,
+    "targetAnswer": "جالس",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 11,
+    "dim": 1,
+    "subTaskNo": 11,
+    "section": "الفهم والتعرف على الكلمة\nالصورة الموافقة للكلمة",
+    "mode": "word_to_images",
+    "instruction": "1- اِخْتَرِ الصُّورَةَ المُوَافِقَةَ لِلْكَلِمَةِ المَكْتُوبَةِ",
+    "stimulusText": "طَوِيلٌ",
+    "stimulusImage": null,
+    "options": [
+      57,
+      58,
+      59,
+      60,
+      61,
+      62
+    ],
+    "correctOption": 62,
+    "targetAnswer": "طويل",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 12,
+    "dim": 1,
+    "subTaskNo": 12,
+    "section": "الفهم والتعرف على الكلمة\nالصورة الموافقة للكلمة",
+    "mode": "word_to_images",
+    "instruction": "1- اِخْتَرِ الصُّورَةَ المُوَافِقَةَ لِلْكَلِمَةِ المَكْتُوبَةِ",
+    "stimulusText": "غَاضِبَةٌ",
+    "stimulusImage": null,
+    "options": [
+      63,
+      64,
+      65,
+      66,
+      67,
+      68
+    ],
+    "correctOption": 66,
+    "targetAnswer": "غاضبة",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 13,
+    "dim": 1,
+    "subTaskNo": 1,
+    "section": "الفهم والتعرف على الكلمة\nالكلمة الموافقة للصورة",
+    "mode": "image_to_words",
+    "instruction": "2- اِخْتَرِ الكَلِمَةَ المُوَافِقَةَ لِلصُّورَةِ",
+    "stimulusText": "",
+    "stimulusImage": 69,
+    "options": [
+      "جَارَةٌ",
+      "حَجَرَةٌ",
+      "شَجَرَةٌ",
+      "جَشَرَةٌ"
+    ],
+    "correctOption": "شَجَرَةٌ",
+    "targetAnswer": "شجرة",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 14,
+    "dim": 1,
+    "subTaskNo": 2,
+    "section": "الفهم والتعرف على الكلمة\nالكلمة الموافقة للصورة",
+    "mode": "image_to_words",
+    "instruction": "2- اِخْتَرِ الكَلِمَةَ المُوَافِقَةَ لِلصُّورَةِ",
+    "stimulusText": "",
+    "stimulusImage": 70,
+    "options": [
+      "مُعَلِّمٌ",
+      "طَبِيبٌ",
+      "نَجَّارٌ",
+      "فَلَّاحٌ"
+    ],
+    "correctOption": "فَلَّاحٌ",
+    "targetAnswer": "فلاح",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 15,
+    "dim": 1,
+    "subTaskNo": 3,
+    "section": "الفهم والتعرف على الكلمة\nالكلمة الموافقة للصورة",
+    "mode": "image_to_words",
+    "instruction": "2- اِخْتَرِ الكَلِمَةَ المُوَافِقَةَ لِلصُّورَةِ",
+    "stimulusText": "",
+    "stimulusImage": 71,
+    "options": [
+      "دَارِجَةٌ",
+      "عَجَلَةٌ",
+      "دَرَّاجَةٌ",
+      "جَرَّارَةٌ"
+    ],
+    "correctOption": "دَرَّاجَةٌ",
+    "targetAnswer": "دراجة",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 16,
+    "dim": 1,
+    "subTaskNo": 4,
+    "section": "الفهم والتعرف على الكلمة\nالكلمة الموافقة للصورة",
+    "mode": "image_to_words",
+    "instruction": "2- اِخْتَرِ الكَلِمَةَ المُوَافِقَةَ لِلصُّورَةِ",
+    "stimulusText": "",
+    "stimulusImage": 10,
+    "options": [
+      "نَلْمَةٌ",
+      "نَحْلَةٌ",
+      "نَخْلَةٌ",
+      "نَمْلَةٌ"
+    ],
+    "correctOption": "نَمْلَةٌ",
+    "targetAnswer": "نملة",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 17,
+    "dim": 1,
+    "subTaskNo": 5,
+    "section": "الفهم والتعرف على الكلمة\nالكلمة الموافقة للصورة",
+    "mode": "image_to_words",
+    "instruction": "2- اِخْتَرِ الكَلِمَةَ المُوَافِقَةَ لِلصُّورَةِ",
+    "stimulusText": "",
+    "stimulusImage": 11,
+    "options": [
+      "جَمَلٌ",
+      "حَبْلٌ",
+      "جَبَلٌ",
+      "حَمَلٌ"
+    ],
+    "correctOption": "جَبَلٌ",
+    "targetAnswer": "جبل",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 18,
+    "dim": 1,
+    "subTaskNo": 6,
+    "section": "الفهم والتعرف على الكلمة\nالكلمة الموافقة للصورة",
+    "mode": "image_to_words",
+    "instruction": "2- اِخْتَرِ الكَلِمَةَ المُوَافِقَةَ لِلصُّورَةِ",
+    "stimulusText": "",
+    "stimulusImage": 52,
+    "options": [
+      "نَـئِمٌ",
+      "قَاعِدٌ",
+      "قَائِمٌ",
+      "نَائِمٌ",
+      "وَاقِفٌ",
+      "نَادِمٌ"
+    ],
+    "correctOption": "نَائِمٌ",
+    "targetAnswer": "نائم",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 19,
+    "dim": 1,
+    "subTaskNo": 7,
+    "section": "الفهم والتعرف على الكلمة\nالكلمة الموافقة للصورة",
+    "mode": "image_to_words",
+    "instruction": "2- اِخْتَرِ الكَلِمَةَ المُوَافِقَةَ لِلصُّورَةِ",
+    "stimulusText": "",
+    "stimulusImage": 67,
+    "options": [
+      "غَاضِبٌ",
+      "مُبْتَسِمٌ",
+      "مُرْتَسِمَةٌ",
+      "مُرْتَسِمٌ",
+      "مُنْدَهِشٌ",
+      "مُكَشِّرٌ"
+    ],
+    "correctOption": "مُبْتَسِمٌ",
+    "targetAnswer": "مبتسم",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 20,
+    "dim": 1,
+    "subTaskNo": 8,
+    "section": "الفهم والتعرف على الكلمة\nالكلمة الموافقة للصورة",
+    "mode": "image_to_words",
+    "instruction": "2- اِخْتَرِ الكَلِمَةَ المُوَافِقَةَ لِلصُّورَةِ",
+    "stimulusText": "",
+    "stimulusImage": 30,
+    "options": [
+      "مُسْتَسْلِمَةٌ",
+      "مُتَكَلِّمَةٌ",
+      "مُتَحَجِّبَةٌ",
+      "مُرْتَسِمَةٌ",
+      "مُتَعَجِّبَةٌ",
+      "مُتَعَلِّمَةٌ"
+    ],
+    "correctOption": "مُتَحَجِّبَةٌ",
+    "targetAnswer": "متحجبة",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 21,
+    "dim": 2,
+    "subTaskNo": 1,
+    "section": "فهم الجملة\nالصورة الموافقة للجملة",
+    "mode": "word_to_images",
+    "instruction": "3- اِخْتَرِ الصُّورَةَ المُوَافِقَةَ لِلْجُمْلَةِ المَكْتُوبَةِ",
+    "stimulusText": "سَيَّارَةُ الأُجْرَةِ",
+    "stimulusImage": null,
+    "options": [
+      72,
+      73,
+      74,
+      75
+    ],
+    "correctOption": 75,
+    "targetAnswer": "سيارة الأجرة",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 22,
+    "dim": 2,
+    "subTaskNo": 2,
+    "section": "فهم الجملة\nالصورة الموافقة للجملة",
+    "mode": "word_to_images",
+    "instruction": "3- اِخْتَرِ الصُّورَةَ المُوَافِقَةَ لِلْجُمْلَةِ المَكْتُوبَةِ",
+    "stimulusText": "كُرَةُ السَّلَّةِ",
+    "stimulusImage": null,
+    "options": [
+      76,
+      77,
+      78,
+      79,
+      33,
+      80
+    ],
+    "correctOption": 33,
+    "targetAnswer": "كرة السلة",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 23,
+    "dim": 2,
+    "subTaskNo": 3,
+    "section": "فهم الجملة\nالصورة الموافقة للجملة",
+    "mode": "word_to_images",
+    "instruction": "3- اِخْتَرِ الصُّورَةَ المُوَافِقَةَ لِلْجُمْلَةِ المَكْتُوبَةِ",
+    "stimulusText": "أَدَوَاتُ التَّنْظِيفِ",
+    "stimulusImage": null,
+    "options": [
+      81,
+      82,
+      83,
+      84,
+      85,
+      86
+    ],
+    "correctOption": 84,
+    "targetAnswer": "أدوات التنظيف",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 24,
+    "dim": 2,
+    "subTaskNo": 4,
+    "section": "فهم الجملة\nالصورة الموافقة للجملة",
+    "mode": "word_to_images",
+    "instruction": "3- اِخْتَرِ الصُّورَةَ المُوَافِقَةَ لِلْجُمْلَةِ المَكْتُوبَةِ",
+    "stimulusText": "المُصَلِّي سَاجِدٌ",
+    "stimulusImage": null,
+    "options": [
+      87,
+      88,
+      89,
+      25,
+      90,
+      91
+    ],
+    "correctOption": 25,
+    "targetAnswer": "المصلي ساجد",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 25,
+    "dim": 2,
+    "subTaskNo": 5,
+    "section": "فهم الجملة\nالصورة الموافقة للجملة",
+    "mode": "word_to_images",
+    "instruction": "3- اِخْتَرِ الصُّورَةَ المُوَافِقَةَ لِلْجُمْلَةِ المَكْتُوبَةِ",
+    "stimulusText": "يَشْرَبُ المَاءَ",
+    "stimulusImage": null,
+    "options": [
+      92,
+      93,
+      94,
+      95,
+      96,
+      97
+    ],
+    "correctOption": 92,
+    "targetAnswer": "يشرب الماء",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 26,
+    "dim": 2,
+    "subTaskNo": 6,
+    "section": "فهم الجملة\nالصورة الموافقة للجملة",
+    "mode": "word_to_images",
+    "instruction": "3- اِخْتَرِ الصُّورَةَ المُوَافِقَةَ لِلْجُمْلَةِ المَكْتُوبَةِ",
+    "stimulusText": "أَمْسَكَ الكُرَةَ",
+    "stimulusImage": null,
+    "options": [
+      98,
+      77,
+      99,
+      100,
+      101,
+      102
+    ],
+    "correctOption": 100,
+    "targetAnswer": "أمسك الكرة",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 27,
+    "dim": 2,
+    "subTaskNo": 1,
+    "section": "فهم الجملة\nالجملة الموافقة للصورة",
+    "mode": "image_to_sentences",
+    "instruction": "4- اِخْتَرِ الجُمْلَةَ المُوَافِقَةَ لِلصُّورَةِ",
+    "stimulusText": "",
+    "stimulusImage": 103,
+    "options": [
+      "الرَّجُلُ مُعَطَّلٌ",
+      "سَيَّارَةُ الشُّرْطَةِ",
+      "سَيَّارَةُ الإِسْعَافِ",
+      "السَّيَّارَةُ مُعَطَّلَةٌ"
+    ],
+    "correctOption": "السَّيَّارَةُ مُعَطَّلَةٌ",
+    "targetAnswer": "السيارة معطلة",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 28,
+    "dim": 2,
+    "subTaskNo": 2,
+    "section": "فهم الجملة\nالجملة الموافقة للصورة",
+    "mode": "image_to_sentences",
+    "instruction": "4- اِخْتَرِ الجُمْلَةَ المُوَافِقَةَ لِلصُّورَةِ",
+    "stimulusText": "",
+    "stimulusImage": 104,
+    "options": [
+      "البِنْتُ نَائِمَةٌ",
+      "الرَّجُلُ قَاعِدٌ",
+      "الرَّجُلُ نَائِمٌ",
+      "البِنْتُ جَالِسَةٌ"
+    ],
+    "correctOption": "البِنْتُ جَالِسَةٌ",
+    "targetAnswer": "البنت جالسة",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 29,
+    "dim": 2,
+    "subTaskNo": 3,
+    "section": "فهم الجملة\nالجملة الموافقة للصورة",
+    "mode": "image_to_sentences",
+    "instruction": "4- اِخْتَرِ الجُمْلَةَ المُوَافِقَةَ لِلصُّورَةِ",
+    "stimulusText": "",
+    "stimulusImage": 105,
+    "options": [
+      "يَرْكَبُ القِطَارَ",
+      "تَرْكَبُ الحَافِلَةَ",
+      "يَرْكَبُ الحَافِلَةَ",
+      "تَرْكَبُ السَّيَّارَةَ"
+    ],
+    "correctOption": "يَرْكَبُ الحَافِلَةَ",
+    "targetAnswer": "يركب الحافلة",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 30,
+    "dim": 2,
+    "subTaskNo": 4,
+    "section": "فهم الجملة\nالجملة الموافقة للصورة",
+    "mode": "image_to_sentences",
+    "instruction": "4- اِخْتَرِ الجُمْلَةَ المُوَافِقَةَ لِلصُّورَةِ",
+    "stimulusText": "",
+    "stimulusImage": 26,
+    "options": [
+      "تَقْرَأُ القُرْآنَ",
+      "يَقْرَأُ القُرْآنَ",
+      "يَكْتُبُ الرِّسَالَةَ",
+      "يَقْرَأُ الجَرِيدَةَ"
+    ],
+    "correctOption": "يَقْرَأُ القُرْآنَ",
+    "targetAnswer": "يقرأ القرآن",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 31,
+    "dim": 2,
+    "subTaskNo": 1,
+    "section": "فهم الجملة\nالصورة الموافقة للجملة (2)",
+    "mode": "word_to_images",
+    "instruction": "4- اِخْتَرِ الصُّورَةَ المُوَافِقَةَ لِلْجُمْلَةِ المَكْتُوبَةِ",
+    "stimulusText": "يَسْتَعْمِلُ الوَلَدَانِ الحَاسُوبَ",
+    "stimulusImage": null,
+    "options": [
+      106,
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "correctOption": 106,
+    "targetAnswer": "يستعمل الولدان الحاسوب",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 32,
+    "dim": 2,
+    "subTaskNo": 2,
+    "section": "فهم الجملة\nالصورة الموافقة للجملة (2)",
+    "mode": "word_to_images",
+    "instruction": "4- اِخْتَرِ الصُّورَةَ المُوَافِقَةَ لِلْجُمْلَةِ المَكْتُوبَةِ",
+    "stimulusText": "يَشْرَبُ الرَّجُلُ مِنَ القَارُورَةِ",
+    "stimulusImage": null,
+    "options": [
+      112,
+      113,
+      114,
+      115,
+      116,
+      117
+    ],
+    "correctOption": 114,
+    "targetAnswer": "يشرب الرجل من القارورة",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 33,
+    "dim": 2,
+    "subTaskNo": 3,
+    "section": "فهم الجملة\nالصورة الموافقة للجملة (2)",
+    "mode": "word_to_images",
+    "instruction": "4- اِخْتَرِ الصُّورَةَ المُوَافِقَةَ لِلْجُمْلَةِ المَكْتُوبَةِ",
+    "stimulusText": "السَّيَّارَةُ بِجَانِبِ الشَّاحِنَةِ",
+    "stimulusImage": null,
+    "options": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      123
+    ],
+    "correctOption": 119,
+    "targetAnswer": "السيارة بجانب الشاحنة",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 34,
+    "dim": 2,
+    "subTaskNo": 4,
+    "section": "فهم الجملة\nالصورة الموافقة للجملة (2)",
+    "mode": "word_to_images",
+    "instruction": "4- اِخْتَرِ الصُّورَةَ المُوَافِقَةَ لِلْجُمْلَةِ المَكْتُوبَةِ",
+    "stimulusText": "الطَّبِيبَةُ تَفْحَصُ أَسْنَانَ الوَلَدِ",
+    "stimulusImage": null,
+    "options": [
+      124,
+      42,
+      125,
+      126,
+      127,
+      128
+    ],
+    "correctOption": 127,
+    "targetAnswer": "الطبيبة تفحص أسنان الولد",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 35,
+    "dim": 2,
+    "subTaskNo": 5,
+    "section": "فهم الجملة\nالصورة الموافقة للجملة (2)",
+    "mode": "word_to_images",
+    "instruction": "4- اِخْتَرِ الصُّورَةَ المُوَافِقَةَ لِلْجُمْلَةِ المَكْتُوبَةِ",
+    "stimulusText": "البِنْتُ تَجْلِسُ عَلَى الكُرْسِيِّ",
+    "stimulusImage": null,
+    "options": [
+      56,
+      51,
+      129,
+      52,
+      130,
+      55
+    ],
+    "correctOption": 56,
+    "targetAnswer": "البنت تجلس على الكرسي",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 36,
+    "dim": 2,
+    "subTaskNo": 6,
+    "section": "فهم الجملة\nالصورة الموافقة للجملة (2)",
+    "mode": "word_to_images",
+    "instruction": "4- اِخْتَرِ الصُّورَةَ المُوَافِقَةَ لِلْجُمْلَةِ المَكْتُوبَةِ",
+    "stimulusText": "الرَّجُلُ الغَاضِبُ يَقْرَأُ الكِتَابَ",
+    "stimulusImage": null,
+    "options": [
+      131,
+      132,
+      133,
+      134,
+      135,
+      136
+    ],
+    "correctOption": 133,
+    "targetAnswer": "الرجل الغاضب يقرأ الكتاب",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 37,
+    "dim": 2,
+    "subTaskNo": 7,
+    "section": "فهم الجملة\nالصورة الموافقة للجملة (2)",
+    "mode": "word_to_images",
+    "instruction": "4- اِخْتَرِ الصُّورَةَ المُوَافِقَةَ لِلْجُمْلَةِ المَكْتُوبَةِ",
+    "stimulusText": "المَرْأَةُ تُشِيرُ بِإِصْبَعِهَا لِلأَعْلَى",
+    "stimulusImage": null,
+    "options": [
+      137,
+      138,
+      139,
+      140,
+      141,
+      142
+    ],
+    "correctOption": 137,
+    "targetAnswer": "المرأة تشير بإصبعها للأعلى",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 38,
+    "dim": 2,
+    "subTaskNo": 1,
+    "section": "فهم الجملة\nالجملة الموافقة للصورة (2)",
+    "mode": "image_to_sentences",
+    "instruction": "5- اِخْتَرِ الجُمْلَةَ المُوَافِقَةَ لِلصُّورَةِ",
+    "stimulusText": "",
+    "stimulusImage": 97,
+    "options": [
+      "الطِّفْلُ يَضَعُ النَّظَّارَاتِ",
+      "الرَّجُلُ يَأْكُلُ اللَّحْمَ",
+      "الرَّجُلُ يَقْرَأُ الجَرِيدَةَ",
+      "الطِّفْلُ يَقْرَأُ الكِتَابَ"
+    ],
+    "correctOption": "الطِّفْلُ يَقْرَأُ الكِتَابَ",
+    "targetAnswer": "الطفل يقرأ الكتاب",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 39,
+    "dim": 2,
+    "subTaskNo": 2,
+    "section": "فهم الجملة\nالجملة الموافقة للصورة (2)",
+    "mode": "image_to_sentences",
+    "instruction": "5- اِخْتَرِ الجُمْلَةَ المُوَافِقَةَ لِلصُّورَةِ",
+    "stimulusText": "",
+    "stimulusImage": 99,
+    "options": [
+      "يُسَجِّلُ اللَّاعِبُ الكُرَةَ",
+      "يُمْسِكُ اللَّاعِبُونَ الكُرَةَ",
+      "يَرْفَعُ اللَّاعِبُونَ الكَأْسَ",
+      "يَرْفَعُ اللَّاعِبُونَ العَلَمَ"
+    ],
+    "correctOption": "يَرْفَعُ اللَّاعِبُونَ الكَأْسَ",
+    "targetAnswer": "يرفع اللاعبون الكأس",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 40,
+    "dim": 2,
+    "subTaskNo": 3,
+    "section": "فهم الجملة\nالجملة الموافقة للصورة (2)",
+    "mode": "image_to_sentences",
+    "instruction": "5- اِخْتَرِ الجُمْلَةَ المُوَافِقَةَ لِلصُّورَةِ",
+    "stimulusText": "",
+    "stimulusImage": 143,
+    "options": [
+      "السَّيَّارَةُ بَيْنَ الشَّاحِنَةِ وَالدَّرَّاجَةِ",
+      "السَّيَّارَةُ بَيْنَ الشَّاحِنَةِ وَالحَافِلَةِ",
+      "الشَّاحِنَةُ بَيْنَ الدَّرَّاجَةِ وَالسَّيَّارَةِ",
+      "الشَّاحِنَةُ بَيْنَ الدَّرَّاجَةِ وَالحَافِلَةِ"
+    ],
+    "correctOption": "السَّيَّارَةُ بَيْنَ الشَّاحِنَةِ وَالدَّرَّاجَةِ",
+    "targetAnswer": "السيارة بين الشاحنة والدراجة",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 41,
+    "dim": 2,
+    "subTaskNo": 4,
+    "section": "فهم الجملة\nالجملة الموافقة للصورة (2)",
+    "mode": "image_to_sentences",
+    "instruction": "5- اِخْتَرِ الجُمْلَةَ المُوَافِقَةَ لِلصُّورَةِ",
+    "stimulusText": "",
+    "stimulusImage": 144,
+    "options": [
+      "الرَّجُلُ يَتَحَدَّثُ فِي الهَاتِفِ وَيَسْتَعْمِلُ الحَاسُوبَ",
+      "المَرْأَةُ تَتَحَدَّثُ فِي الهَاتِفِ وَتَسْتَعْمِلُ الحَاسُوبَ",
+      "المَرْأَةُ تَتَحَدَّثُ فِي الحَاسُوبِ وَتَسْتَعْمِلُ الكِتَابَ"
+    ],
+    "correctOption": "المَرْأَةُ تَتَحَدَّثُ فِي الهَاتِفِ وَتَسْتَعْمِلُ الحَاسُوبَ",
+    "targetAnswer": "المرأة تتحدث في الهاتف وتستعمل الحاسوب",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 42,
+    "dim": 3,
+    "subTaskNo": 1,
+    "section": "فهم الجملة\nالجملة الاستفهامية (السؤال)",
+    "mode": "word_to_images",
+    "instruction": "6- اِخْتَرِ الإِجَابَةَ الصَّحِيحَةَ",
+    "stimulusText": "أَيْنَ نَضَعُ النُّقُودَ؟",
+    "stimulusImage": null,
+    "options": [
+      145,
+      146,
+      108,
+      147
+    ],
+    "correctOption": 145,
+    "targetAnswer": "المحفظة (خيار 1)",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 43,
+    "dim": 3,
+    "subTaskNo": 2,
+    "section": "فهم الجملة\nالجملة الاستفهامية (السؤال)",
+    "mode": "word_to_images",
+    "instruction": "6- اِخْتَرِ الإِجَابَةَ الصَّحِيحَةَ",
+    "stimulusText": "مَاذَا نَلْبَسُ فِي فَصْلِ الشِّتَاءِ؟",
+    "stimulusImage": null,
+    "options": [
+      83,
+      148,
+      149,
+      150
+    ],
+    "correctOption": 83,
+    "targetAnswer": "ملابس الشتاء (خيار 1)",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 44,
+    "dim": 3,
+    "subTaskNo": 3,
+    "section": "فهم الجملة\nالجملة الاستفهامية (السؤال)",
+    "mode": "image_to_sentences",
+    "instruction": "6- اِخْتَرِ الإِجَابَةَ الصَّحِيحَةَ",
+    "stimulusText": "مَاذَا يَفْعَلُ الطَّبِيبُ فِي الصُّورَةِ؟",
+    "stimulusImage": 151,
+    "options": [
+      "يَقِيسُ الضَّغْطَ",
+      "يَفْحَصُ الأُذُنَ",
+      "يَكْتُبُ الوَصْفَةَ",
+      "يَفْحَصُ الأَسْنَانَ"
+    ],
+    "correctOption": "يَفْحَصُ الأُذُنَ",
+    "targetAnswer": "يفحص الأذن",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 45,
+    "dim": 3,
+    "subTaskNo": 4,
+    "section": "فهم الجملة\nالجملة الاستفهامية (السؤال)",
+    "mode": "image_to_sentences",
+    "instruction": "6- اِخْتَرِ الإِجَابَةَ الصَّحِيحَةَ",
+    "stimulusText": "مَاذَا تَفْعَلُ البِنْتُ فِي الصُّورَةِ؟",
+    "stimulusImage": 152,
+    "options": [
+      "تَقْرَأُ الكِتَابَ",
+      "تَكْتُبُ عَلَى السَّبُّورَةِ",
+      "تَرْسُمُ عَلَى الوَرَقَةِ",
+      "تَكْتُبُ عَلَى الوَرَقَةِ"
+    ],
+    "correctOption": "تَكْتُبُ عَلَى الوَرَقَةِ",
+    "targetAnswer": "تكتب على الورقة",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 46,
+    "dim": 4,
+    "subTaskNo": 1,
+    "section": "فهم التراكيب النحوية\nملء الفراغ بالكلمة المناسبة",
+    "mode": "fill_blank",
+    "instruction": "7- اِخْتَرِ الكَلِمَاتِ المُنَاسِبَةَ لِمَلْءِ الفَرَاغِ",
+    "stimulusText": "الكُورُونَا مَرَضٌ أَصَابَ عَدَداً كَبِيراً مِنَ ___",
+    "stimulusImage": null,
+    "options": [
+      "رِئَةُ",
+      "الانْتِشَارِ",
+      "النَّاسِ",
+      "وَجْهَ"
+    ],
+    "correctOption": "النَّاسِ",
+    "targetAnswer": "الناس",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 47,
+    "dim": 4,
+    "subTaskNo": 2,
+    "section": "فهم التراكيب النحوية\nملء الفراغ بالكلمة المناسبة",
+    "mode": "fill_blank",
+    "instruction": "7- اِخْتَرِ الكَلِمَاتِ المُنَاسِبَةَ لِمَلْءِ الفَرَاغِ",
+    "stimulusText": "الكُورُونَا مَرَضٌ أَصَابَ عَدَداً كَبِيراً مِنَ النَّاسِ، وَهَذَا المَرَضُ بِسَبَبِ ___ سَرِيعِ الانْتِشَارِ",
+    "stimulusImage": null,
+    "options": [
+      "رِئَةُ",
+      "فَيْرُوسٍ",
+      "النَّاسِ",
+      "وَجْهَ"
+    ],
+    "correctOption": "فَيْرُوسٍ",
+    "targetAnswer": "فيروس",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 48,
+    "dim": 4,
+    "subTaskNo": 3,
+    "section": "فهم التراكيب النحوية\nملء الفراغ بالكلمة المناسبة",
+    "mode": "fill_blank",
+    "instruction": "7- اِخْتَرِ الكَلِمَاتِ المُنَاسِبَةَ لِمَلْءِ الفَرَاغِ",
+    "stimulusText": "الكُورُونَا مَرَضٌ أَصَابَ عَدَداً كَبِيراً مِنَ النَّاسِ، وَهَذَا المَرَضُ بِسَبَبِ فَيْرُوسٍ سَرِيعِ الانْتِشَارِ اسْمُهُ كُوفِيد 19، يُصِيبُ ___ الإِنْسَانِ",
+    "stimulusImage": null,
+    "options": [
+      "رِئَةَ",
+      "فَيْرُوسٍ",
+      "النَّاسِ",
+      "وَجْهَ"
+    ],
+    "correctOption": "رِئَةَ",
+    "targetAnswer": "رئة",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 49,
+    "dim": 4,
+    "subTaskNo": 4,
+    "section": "فهم التراكيب النحوية\nملء الفراغ بالكلمة المناسبة",
+    "mode": "fill_blank",
+    "instruction": "7- اِخْتَرِ الكَلِمَاتِ المُنَاسِبَةَ لِمَلْءِ الفَرَاغِ",
+    "stimulusText": "تَظْهَرُ أَعْرَاضُ الكُورُونَا بَيْنَ يَوْمَيْنِ إِلَى 14 ___ مِنَ العَدْوَى",
+    "stimulusImage": null,
+    "options": [
+      "جَمِيلَةٌ",
+      "خَطِيرَةٌ",
+      "يَوْماً",
+      "يَذْهَبَ"
+    ],
+    "correctOption": "يَوْماً",
+    "targetAnswer": "يوما",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 50,
+    "dim": 4,
+    "subTaskNo": 5,
+    "section": "فهم التراكيب النحوية\nملء الفراغ بالكلمة المناسبة",
+    "mode": "fill_blank",
+    "instruction": "7- اِخْتَرِ الكَلِمَاتِ المُنَاسِبَةَ لِمَلْءِ الفَرَاغِ",
+    "stimulusText": "تَظْهَرُ أَعْرَاضُ الكُورُونَا بَيْنَ يَوْمَيْنِ إِلَى 14 يَوْماً مِنَ العَدْوَى، وَهَذِهِ الأَعْرَاضُ ___",
+    "stimulusImage": null,
+    "options": [
+      "جَمِيلَةٌ",
+      "خَطِيرَةٌ",
+      "يَوْماً",
+      "يَذْهَبَ"
+    ],
+    "correctOption": "خَطِيرَةٌ",
+    "targetAnswer": "خطيرة",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 51,
+    "dim": 4,
+    "subTaskNo": 6,
+    "section": "فهم التراكيب النحوية\nملء الفراغ بالكلمة المناسبة",
+    "mode": "fill_blank",
+    "instruction": "7- اِخْتَرِ الكَلِمَاتِ المُنَاسِبَةَ لِمَلْءِ الفَرَاغِ",
+    "stimulusText": "تَظْهَرُ أَعْرَاضُ الكُورُونَا بَيْنَ يَوْمَيْنِ إِلَى 14 يَوْماً مِنَ العَدْوَى، وَهَذِهِ الأَعْرَاضُ خَطِيرَةٌ، يَجِبُ عَلَى المَرِيضِ أَنْ ___ لِلطَّبِيبِ",
+    "stimulusImage": null,
+    "options": [
+      "جَمِيلَةٌ",
+      "خَطِيرَةٌ",
+      "يَوْماً",
+      "يَذْهَبَ"
+    ],
+    "correctOption": "يَذْهَبَ",
+    "targetAnswer": "يذهب",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 52,
+    "dim": 5,
+    "subTaskNo": 1,
+    "section": "فهم النص",
+    "mode": "text_images",
+    "instruction": "8- اِقْرَأِ النَّصَّ وَأَجِبْ عَنِ السُّؤَالِ",
+    "stimulusText": "مَنْ سَبَبُ الحَادِثَةِ؟",
+    "stimulusImage": null,
+    "options": [
+      153,
+      154,
+      155
+    ],
+    "correctOption": 153,
+    "targetAnswer": "سائق السيارة (خيار 1)",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 53,
+    "dim": 5,
+    "subTaskNo": 2,
+    "section": "فهم النص",
+    "mode": "text_images",
+    "instruction": "8- اِقْرَأِ النَّصَّ وَأَجِبْ عَنِ السُّؤَالِ",
+    "stimulusText": "مَاذَا اصْطَدَمَ بِالشَّاحِنَةِ؟",
+    "stimulusImage": null,
+    "options": [
+      156,
+      157,
+      158
+    ],
+    "correctOption": 156,
+    "targetAnswer": "سيارة (خيار 1)",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 54,
+    "dim": 5,
+    "subTaskNo": 3,
+    "section": "فهم النص",
+    "mode": "text_words",
+    "instruction": "8- اِقْرَأِ النَّصَّ وَأَجِبْ عَنِ السُّؤَالِ",
+    "stimulusText": "مَتَى وَقَعَتِ الحَادِثَةُ؟",
+    "stimulusImage": null,
+    "options": [
+      "مَسَاءَ الأَمْسِ",
+      "صَبَاحَ اليَوْمِ",
+      "صَبَاحَ الأَمْسِ",
+      "مَسَاءَ اليَوْمِ"
+    ],
+    "correctOption": "مَسَاءَ اليَوْمِ",
+    "targetAnswer": "مساء اليوم",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 55,
+    "dim": 5,
+    "subTaskNo": 4,
+    "section": "فهم النص",
+    "mode": "text_words",
+    "instruction": "8- اِقْرَأِ النَّصَّ وَأَجِبْ عَنِ السُّؤَالِ",
+    "stimulusText": "أَيْنَ وَقَعَتِ الحَادِثَةُ؟",
+    "stimulusImage": null,
+    "options": [
+      "فِي المُسْتَشْفَى",
+      "أَمَامَ المُسْتَشْفَى",
+      "فِي المَنْزِلِ",
+      "أَمَامَ المَسْجِدِ",
+      "فِي المَسْجِدِ",
+      "أَمَامَ المَنْزِلِ"
+    ],
+    "correctOption": "أَمَامَ المَسْجِدِ",
+    "targetAnswer": "أمام المسجد",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 56,
+    "dim": 5,
+    "subTaskNo": 5,
+    "section": "فهم النص",
+    "mode": "text_sentences",
+    "instruction": "8- اِقْرَأِ النَّصَّ وَأَجِبْ عَنِ السُّؤَالِ",
+    "stimulusText": "مَاذَا فَعَلَ رِجَالُ الإِسْعَافِ؟",
+    "stimulusImage": null,
+    "options": [
+      "إِخْرَاجُ المُصَلِّينَ مِنَ المَسْجِدِ",
+      "تَنْظِيمُ حَرَكَةِ السَّيَّارَاتِ",
+      "إِطْفَاءُ الحَرِيقِ فِي السَّيَّارَةِ",
+      "إِخْرَاجُ المُصَابِينَ مِنَ السَّيَّارَةِ"
+    ],
+    "correctOption": "إِخْرَاجُ المُصَابِينَ مِنَ السَّيَّارَةِ",
+    "targetAnswer": "إخراج المصابين من السيارة",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 57,
+    "dim": 5,
+    "subTaskNo": 6,
+    "section": "فهم النص",
+    "mode": "text_words",
+    "instruction": "8- اِقْرَأِ النَّصَّ وَأَجِبْ عَنِ السُّؤَالِ",
+    "stimulusText": "مَاذَا تَعْنِي كَلِمَةُ العَوَاقِبِ؟",
+    "stimulusImage": null,
+    "options": [
+      "النَّتَائِجُ",
+      "السُّرْعَةُ",
+      "المَرِيضُ",
+      "المُصَابِينَ"
+    ],
+    "correctOption": "النَّتَائِجُ",
+    "targetAnswer": "النتائج",
+    "stdTime": 3
+  },
+  {
+    "itemNo": 58,
+    "dim": 5,
+    "subTaskNo": 7,
+    "section": "فهم النص",
+    "mode": "text_sentences",
+    "instruction": "8- اِقْرَأِ النَّصَّ وَأَجِبْ عَنِ السُّؤَالِ",
+    "stimulusText": "مَاذَا نَسْتَنْتِجُ مِنَ النَّصِّ؟",
+    "stimulusImage": null,
+    "options": [
+      "فِي السَّلَامَةِ النَّدَامَةُ",
+      "فِي التَّأَنِّي النَّدَامَةُ",
+      "فِي العَجَلَةِ السَّلَامَةُ",
+      "فِي العَجَلَةِ النَّدَامَةُ"
+    ],
+    "correctOption": "فِي العَجَلَةِ النَّدَامَةُ",
+    "targetAnswer": "في العجلة الندامة",
+    "stdTime": 3
+  }
+]
